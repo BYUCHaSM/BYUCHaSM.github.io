@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: BYU CHaSM
-logo:  logo.png
+logo:  assets/images/logo.png
 email: chasm@byu.edu
 github: BYUCHaSM
-description: Chemical Simulation and Multiscale modeling
+description: Chemical Simulation and <br> Multiscale modeling
